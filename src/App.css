@@ -1,0 +1,14 @@
+html,
+body {
+  background: #6c5ce7;
+  position: relative;
+}
+
+::selection {
+  background: black;
+  color: #fff;
+}
+
+.global-wrapper {
+  position: relative;
+}
